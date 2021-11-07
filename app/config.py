@@ -1,0 +1,2 @@
+TOKEN = '1430963029:AAEscKqorId9MHkREXvL6tuPh1o0MykWVew'
+mode = ''
